@@ -17,9 +17,9 @@ __1. Python programming test__
 
 ```
 Implement the following functionality:  
-  - Generate string contains 10 letters (both cases) followed by 3 digits.  
-  - Reverse the string.  
-  - Write both strings to the file.
+  - Generate string contains 10 letters (both cases) followed by 3 digits
+  - Reverse the string. 
+  - Write both strings into the file called 'ResultFile.txt'
 ```
 
 ----
@@ -30,8 +30,8 @@ __2. Shell scripting test__
 
 ```
 Implement the following functionality:
-  - Generate a list of top 10 CPU consuming processes sorted in descending order.
-  - In current directory create 10 sub-directories named dir1, dir2,..,dir10.
+  - Generate a list of top 10 CPU consuming processes sorted in descending order
+  - In current directory create 10 sub-directories named dir1, dir2,..,dir10
   - Inside each created directory create a file with the same index like in the directory name, i.e. file1 in dir1, file2 in dir2 etc.
-  - Into each file write the 1 line from the list of processes.
+  - Into each file write the 1 line from the list of processes
 ```
