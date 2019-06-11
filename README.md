@@ -9,8 +9,11 @@ __General requirements for the following tasks:__
   - Merge branches into the master before pushing back to Github
   - On completion send back pull request
 ----
+
 __1. Python programming test__  
-Consider implementing the following script with any Python version you’re most comfortable with. Code must be in working condition for the mentioned Python version.
+- Consider implementing the following script with any Python version you’re most comfortable with
+- Code must be in working condition
+- Name script file as 'test_task1.py'
 
 ```
 Implement the following functionality:  
@@ -21,7 +24,9 @@ Implement the following functionality:
 
 ----
 __2. Shell scripting test__  
-Consider implementing the following script with any reasonably latest Bash/zsh version you're most comfortable with. Code must be in working condition for the mentioned shell version.
+- Consider implementing the following script with any reasonably latest Bash
+- Code must be in working condition for the mentioned shell version
+- Name script file as 'test_task2.sh'
 
 ```
 Implement the following functionality:
